@@ -1,3 +1,7 @@
+It is the Preview of my App
+
+![Screenshot 2022-02-28 at 16-14-12 React App](https://user-images.githubusercontent.com/72905167/155970298-5e0ef92c-bfb5-489d-b6bc-9e25848bbec5.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
